@@ -16,3 +16,5 @@ button{font:inherit;cursor:pointer}button:focus-visible{outline:3px solid #59bcc
 .planet-sphere .gridlabs-symbol{width:60px;height:60px!important;max-height:60px!important}.slide-logo .gridlabs-symbol{width:290px;height:auto;max-height:290px;max-width:290px}@media(max-width:600px){.planet-sphere .gridlabs-symbol{width:40px;height:40px!important;max-height:40px!important}.slide-logo .gridlabs-symbol{width:200px;max-height:200px}}
 
 .planet-sphere .rubinho-symbol{width:64px;height:64px!important;max-height:64px!important}.slide-logo .rubinho-symbol{width:260px;max-width:260px;height:auto;max-height:260px}@media(max-width:600px){.planet-sphere .rubinho-symbol{width:42px;height:42px!important;max-height:42px!important}.slide-logo .rubinho-symbol{width:180px;max-height:180px}}
+
+.group-color-line{background:linear-gradient(90deg,#59bcc5 0 16.6667%,#ed1237 16.6667% 33.3333%,#4c9aff 33.3333% 50%,#f5c625 50% 66.6667%,#ffffff 66.6667% 83.3333%,#b184f4 83.3333% 100%)}
