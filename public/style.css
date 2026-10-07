@@ -20,3 +20,4 @@ button{font:inherit;cursor:pointer}button:focus-visible{outline:3px solid #59bcc
 .group-color-line{background:linear-gradient(90deg,#59bcc5 0 16.6667%,#ed1237 16.6667% 33.3333%,#4c9aff 33.3333% 50%,#f5c625 50% 66.6667%,#ffffff 66.6667% 83.3333%,#b184f4 83.3333% 100%)}
 
 .brand-slide[data-slide="grandprix"] h2{font-size:clamp(36px,4.3vw,64px);max-width:16ch;line-height:1.08}@media(max-width:600px){.brand-slide[data-slide="grandprix"] h2{font-size:36px}}
+.brand-slide .eyebrow{color:var(--planet)}
